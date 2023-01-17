@@ -1,0 +1,3 @@
+[submodule "cr-playground"]
+	path = cr-playground
+	url = https://git.amister.pl/ziembam/cr-playground.git
